@@ -1,0 +1,22 @@
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.csprojAssemblyReference.cache
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.csproj.CoreCompileInputs.cache
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.AssemblyInfoInputs.cache
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.AssemblyInfo.cs
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.deps.json
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.runtimeconfig.json
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.runtimeconfig.dev.json
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.dll
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.pdb
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.dll
+C:\Users\polzar\Documents\Visual Studio 2017\Projects\Information Protection\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.pdb
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.deps.json
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.runtimeconfig.json
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.runtimeconfig.dev.json
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.dll
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\bin\Debug\netcoreapp2.1\Information Protection.pdb
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.csprojAssemblyReference.cache
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.csproj.CoreCompileInputs.cache
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.AssemblyInfoInputs.cache
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.AssemblyInfo.cs
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.dll
+D:\Навчання\C++ files\3 Курс\2 семестр\Захист Інформації\Завдання 1\Letters amount and their frequenсies\Information Protection\obj\Debug\netcoreapp2.1\Information Protection.pdb
